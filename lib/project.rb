@@ -1,6 +1,6 @@
-require "pry" 
+require "pry"
 
-class Project 
+class Project
 
 
 
